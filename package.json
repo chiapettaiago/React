@@ -1,0 +1,22 @@
+{
+  "name": "replitreactjsproject",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@types/react": "^17.0.13",
+    "@types/react-dom": "^17.0.8",
+    "@vitejs/plugin-react-refresh": "^1.3.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "vite": "^2.3.8"
+  },
+  "description": "[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.",
+  "main": "vite.config.js",
+  "devDependencies": {},
+  "author": "Iago Chiapetta",
+  "license": "ISC"
+}
